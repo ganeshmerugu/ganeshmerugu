@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ganeshmerugu
-- 👀 I’m interested in Java Web Dev
-- 🌱 I’m currently learning CP
-- 💞️ I’m looking to collaborate with Java Backend Developer
+- 👀 I’m interested in AI ML Engineeer
+- 💞️ I’m looking to collaborate with Agentic AI Projects
 - 📫 contact me ganeshmelodeous@gmail.com
 
 <!---
